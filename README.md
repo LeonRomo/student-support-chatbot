@@ -26,3 +26,24 @@ To run the Math Test Anxiety Chatbot, you need to have the following installed:
 
    ```R
    install.packages(c("shiny", "shinyjs"))
+
+
+# Run the application by clicking the "Run App" button in RStudio.
+
+
+### Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request, explaining your changes in detail.
+
+
+### License
+This project is licensed under the MIT License.
+
+### Acknowledgements
+The Math Test Anxiety Chatbot is inspired by the principles of Cognitive Behavioral Therapy (CBT).
+The project uses the RStudio IDE and the Shiny package for web application development.   
