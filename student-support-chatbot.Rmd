@@ -34,3 +34,15 @@ cbt_strategies <- c(
 )
 ```
 
+POSITIVE FEEDBACK MESSAGES
+
+```{r}
+# Define positive feedback messages
+positive_feedback <- c(
+  "Well done! Keep up the good work!",
+  "Great job! You're doing amazing!",
+  "Awesome work! You're making progress!",
+  "Fantastic! You're on the right track!"
+)
+```
+
